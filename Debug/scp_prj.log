@@ -1,0 +1,50 @@
+﻿  stdafx.cpp
+  scp_prj.cpp
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp : warning C4821: Unable to determine Unicode encoding type, please save the file with signature (BOM)
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\header.h(250): warning C4091: '' : ignored on left of 'void *' when no variable is declared
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\header.h(261): warning C4005: 'DISSECTOR_ASSERT' : macro redefinition
+          c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\header.h(222) : see previous definition of 'DISSECTOR_ASSERT'
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\header.h(270): warning C4002: too many actual parameters for macro 'g_hash_table_insert'
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\header.h(270): warning C4091: '' : ignored on left of 'bool' when no variable is declared
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\header.h(784): warning C4091: 'typedef ' : ignored on left of 'SS7_target' when no variable is declared
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(284): warning C4101: 'tfi' : unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(283): warning C4101: 'tnode' : unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(283): warning C4101: 'sibling' : unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(600): warning C4018: '<=' : signed/unsigned mismatch
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(612): warning C4101: 'eiinfo' : unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(649): warning C4101: 'subset_tvb_length' : unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(648): warning C4101: 'subset_tvb_offset' : unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(1453): warning C4244: 'argument' : conversion from 'guint16' to 'guint8', possible loss of data
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(1355): warning C4101: 'gt_tree' : unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(1354): warning C4101: 'gt_item' : unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(1675): warning C4018: '<' : signed/unsigned mismatch
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(1688): warning C4018: '<' : signed/unsigned mismatch
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(1702): warning C4018: '<' : signed/unsigned mismatch
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(1596): warning C4101: 'hidden_item' : unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(1596): warning C4101: 'item' : unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(1861): warning C4101: 'lr_item' : unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(1882): warning C4101: 'lr_item' : unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(2149): warning C4101: 'param_tree' : unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(2148): warning C4101: 'param_item' : unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(2206): warning C4101: 'param_tree' : unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(2205): warning C4101: 'param_item' : unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(2261): warning C4101: 'saved_can_desegment' : unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(2260): warning C4101: 'saved_proto' : unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(2391): warning C4101: 'saved_match_uint' : unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(2508): warning C4550: expression evaluates to a function which is missing an argument list
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(2456): warning C4101: 'saved_can_desegment' : unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(2453): warning C4101: 'saved_proto' : unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(2853): warning C4101: 'pi' : unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(2930): warning C4002: too many actual parameters for macro 'g_hash_table_insert'
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(3607): warning C4002: too many actual parameters for macro 'g_slice_new'
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(3941): warning C4002: too many actual parameters for macro 'g_hash_table_insert'
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(3952): warning C4002: too many actual parameters for macro 'g_hash_table_insert'
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(3968): warning C4101: 'reass_key' : unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(4110): warning C4101: 'frag_tree_item' : unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(4431): warning C4800: 'guint8' : forcing value to bool 'true' or 'false' (performance warning)
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(4213): warning C4101: 'save_fragmented' : unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(4211): warning C4101: 'hf_var' : unreferenced local variable
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(4954): warning C4101: 'mtp3_addr_p' : unreferenced local variable
+  Generating Code...
+c:\users\vostro 3568\documents\visual studio 2010\projects\scp_prj\scp_prj\scp_prj.cpp(1718): warning C4700: uninitialized local variable 'expert_item' used
+  scp_prj.vcxproj -> C:\Users\Vostro 3568\documents\visual studio 2010\Projects\scp_prj\Debug\scp_prj.exe
